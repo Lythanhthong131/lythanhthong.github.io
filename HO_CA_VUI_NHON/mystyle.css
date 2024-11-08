@@ -16,12 +16,12 @@ body {
 }
 
 #shark img {
-    width: auto;
-    height: 100px;
+    width: 500px;
+    height: 200px;
 }
 
 #diver1 img, #diver2 img, #fish1 img, #fish2 img, #turtle img {
-    width: auto;
+    width: 150px;
     height: 70px;
 }
 
